@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(172, 172, 172);
+}
+
+a {
+    color: rgb(80, 80, 255);
+}
+
+#title {
+    font-size: 4rem;
+    font-family: sans-serif;
+    margin-bottom: 0px;
+}
+
+#startInfo {
+    margin-top: 4px;
+    font-weight: 900;
+    font-size: 1.1rem;
+}
+
+.wantedPerson {
+    padding: 10px 50px 10px 50px;
+    width: 300px;
+}
+
+.wantedPersonUser {
+    font-size: 1.4rem;
+    margin-bottom: 4px;
+}
+
+.images {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.pictureDate {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.reason {
+    margin-top: 4px;
+    font-size: 1.3rem;
+}
+
+@media only screen and (max-width: 1256px) {
+    body {
+        background-color: black;
+    }
+    
+}
